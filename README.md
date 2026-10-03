@@ -5,14 +5,9 @@ Proje Yaklaşımı
 Çalışmanın ilk aşamasında Unreal Engine ortamında sentetik askeri hedef görüntüleri üretilmiştir. Tank, hava savunma sistemi, askeri personel ve askeri araç sınıfları; farklı kamera açıları, mesafeler, yükseklikler, çevre koşulları ve hava durumları altında görüntülenmiştir.
 Sentetik veri üretiminde Domain Randomization yaklaşımı kullanılarak modelin tek bir sahneye veya kamera koşuluna bağımlı kalmaması hedeflenmiştir.
 ## 🎥 Sim-to-Real Video Demonstration
-
 YOLOv8s CLEAN V4 + DeepSORT + Kalman Filter kullanılarak gerçek video üzerinde çoklu nesne tespiti ve takibi gerçekleştirilmiştir.
 
-[![Sim-to-Real Demo](Sim-to-Real/demo_preview.jpg)](Sim-to-Real/video_3_deepsort.mp4)
-
-**Tespit sınıfları:** Tank, Hava Savunma, Askeri Personel, Askeri Araç
-
-▶️ **Görsele tıklayarak videoyu açabilirsiniz.**
+https://github.com/user-attachments/assets/c2843c9c-9c4b-4f49-8c64-b63cfd5e1a14
 
 Kullanılan sınıflar:
 ID	Sınıf
