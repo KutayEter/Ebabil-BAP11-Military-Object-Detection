@@ -7,7 +7,7 @@ Sentetik veri üretiminde Domain Randomization yaklaşımı kullanılarak modeli
 ## 🎥 Sim-to-Real Video Demonstration
 YOLOv8s CLEAN V4 + DeepSORT + Kalman Filter kullanılarak gerçek video üzerinde çoklu nesne tespiti ve takibi gerçekleştirilmiştir.
 
-https://github.com/user-attachments/assets/c2843c9c-9c4b-4f49-8c64-b63cfd5e1a14
+https://github.com/user-attachments/assets/6b82ddd9-7ebd-4670-a032-cfbba91f0af6
 
 Kullanılan sınıflar:
 ID	Sınıf
