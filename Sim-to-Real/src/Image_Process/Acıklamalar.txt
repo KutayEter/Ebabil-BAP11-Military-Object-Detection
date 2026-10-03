@@ -1,0 +1,9 @@
+train_scratch.py → ilk YOLOv8s scratch eğitimi
+finetune_v3.py → personel odaklı fine-tune
+finetune_v4_clean.py → final CLEAN V4 eğitimi
+real_bulk_test.py → 160 gerçek foto test scripti
+video_inference.py → normal video YOLO testi
+video_deepsort.py → YOLO + DeepSORT + Kalman video testi
+dataset_split.py → train/val ayırma
+label_remap.py → farklı datasetlerde class ID dönüştürme
+dataset_check.py → image-label, class ve bbox sayım/kontrol scripti
